@@ -1,1 +1,1 @@
-![HTML][(https://skillicons.dev/icons?i=html,css,js,react,wordpress,mysql)]
+![HMTL](https://skillicons.dev/icons?i=html,css,js,react,wordpress,mysql)
